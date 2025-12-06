@@ -22,13 +22,9 @@ const Contact = () => {
                         <div className="flex flex-col items-center p-4 bg-gray-50 rounded-lg">
                             <Phone className="h-8 w-8 text-blue-600 mb-2" />
                             <h3 className="text-lg font-medium text-gray-900">Phone</h3>
-                            <p className="text-gray-500">kindly contact us on our email</p>
+                            <p className="text-gray-500">contact us on our email</p>
                         </div>
-                        <div className="flex flex-col items-center p-4 bg-gray-50 rounded-lg sm:col-span-2 lg:col-span-1">
-                            <MapPin className="h-8 w-8 text-blue-600 mb-2" />
-                            <h3 className="text-lg font-medium text-gray-900">Location</h3>
-                            <p className="text-gray-500">India</p>
-                        </div>
+
                     </div>
 
                     <div className="mt-12">
